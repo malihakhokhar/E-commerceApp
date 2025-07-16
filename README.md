@@ -99,4 +99,9 @@ com.example.e_commerce
    ```bash
    git clone https://github.com/yourusername/ecommerce-shoes-app.git
 
+---
+
+## 📃 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
