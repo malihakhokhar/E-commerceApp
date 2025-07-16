@@ -1,4 +1,4 @@
-# 🛍️ E-commerce App
+[database.json](https://github.com/user-attachments/files/21262052/database.json)# 🛍️ E-commerce App
 
 A sleek and functional e-commerce Android application focused on selling shoes. Built using **Kotlin**, **Firebase**, and follows **MVVM (Model-View-ViewModel)** architecture. The app supports user authentication, product browsing, cart management, and order placement.
 
@@ -83,9 +83,9 @@ com.example.e_commerce
 
 ## 🔧 Firebase Configuration
 
-1. Go to [Firebase Console](https://console.firebase.google.com/).
+1. Go to [Firebase Console]([https://console.firebase.google.com/](https://console.firebase.google.com/project/ecommerce-1c429/overview)).
 2. Create a new project and register your Android app.
-3. Download `google-services.json` and place it inside the `/app` folder.
+3. Download `google-services.json` from firebase/realtimeDatabase, and place it inside the `/app` folder.
 4. Enable the following services:
    - Firebase Authentication (Email/Password)
    - Realtime Database (set appropriate rules)
